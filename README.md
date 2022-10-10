@@ -1,7 +1,11 @@
 - 👋 Hi, I’m Trust Eniola
+
 - 👀 I’m interested in Python, C and Javascript
+
 - 🌱 I’m currently learning Javascript and Web technologies
-- 💞️ I’m looking to collaborate on Web projects
+
+- 💞️ I’m currently working on a clone of the AirBnB web app
+
 - 📫 you can reach me on trusteniola@gmail.com
 
 <!---
