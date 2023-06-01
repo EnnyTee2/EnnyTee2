@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning Javascript and Web technologies
 
-- 💞️ I’m done working on a clone of the AirBnB web app, now I am trying to build a modern snake game with Python
+- 💞️ I’m done working on a clone of the AirBnB web app, a modern snake game built with Python and a web app for doctor's appointment booking.
 
 - 📫 you can reach me on trusteniola@gmail.com
 
